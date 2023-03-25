@@ -13,7 +13,7 @@ Qualifications
 
 Software:
 
--Power BI, Tableau, SPSS, R, Excell, Epi-Info, MySQL Workbench, SQL, Kobo Toolbox, ODK, Survey Monkey, Google Forms, Asana
+-Power BI, Tableau, SPSS, R, Excell, Epi-Info, MySQL Workbench, SQL, Kobo Toolbox, ODK, Survey Monkey, Google Analytics
 
 Business:
 
